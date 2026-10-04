@@ -1,6 +1,6 @@
 # --- 网站基本信息 ---
 title: "Flclash"           # 网站标题
-description: "Flclash官网导航，Flclash下载地址，Flclash使用教程，Fclash免费节点" # 搜索引擎会抓取这段描述
+description: "Flclash官网导航，Flclash下载地址，Flclash使用教程，Flclash免费节点" # 搜索引擎会抓取这段描述
 remote_theme: pages-themes/slate  # 选择主题（slate 非常适合技术文档）
 
 # --- 链接与社交 ---
