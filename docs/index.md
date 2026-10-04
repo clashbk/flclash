@@ -1,6 +1,6 @@
 # Flclash 官网
 
-![Fclash(./assets/cropped-logo-150x150.png)
+![cropped-logo-150x150](./assets/cropped-logo-150x150.png)
 
 ## Flclash官网导航
 
