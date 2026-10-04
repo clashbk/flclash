@@ -15,7 +15,7 @@ FlClash 是基于 Clash 内核（ClashMeta / Mihomo）开发的一款跨平台�
 
 ## Flclash使用教程
 
-- 👉 点击前往：[Flclash 详细教程](https://github.com/clashbk/clash/wiki/flclash)
+- 👉 点击前往：[最新 FlClash 使用教程快速入门篇](https://github.com/clashbk/clash/wiki/flclash)
 
 ## Flclash 服务器节点
 
