@@ -1,6 +1,6 @@
-# [Flclash](https://clashbk.github.io/flclash/) 官网
+# Flclash 官网
 
-![v2rayN](./docs/assets/cropped-logo-150x150.png)
+![Fclash](./docs/assets/cropped-logo-150x150.png)
 
 ## Flclash官网导航
 
